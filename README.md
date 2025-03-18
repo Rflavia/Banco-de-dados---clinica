@@ -1,1 +1,1 @@
-# Banco-de-dados---clinica
+# Banco-de-dados-clínica
